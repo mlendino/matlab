@@ -1,6 +1,7 @@
 %okay lets begin
 clc;
 clear all;
+
 %% Generate a signal that consists of a sum of sine waves of frequencies 1 to 50 kHz for t between 0 and 2 seconds
 f = 1:50;
 t = linspace(0,2,2001);
